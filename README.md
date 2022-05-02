@@ -19,7 +19,7 @@ Voorzie de nodige getters en setters indien nodig.
 
 Voorzie een functie bevatZoekterm(zoektermen). Deze functie retourneert true indien de titel van de vacature één of meerdere van de zoektermen bevat. Dit mag niet hoofdlettergevoelig zijn.
 
-Test de code door in de init functie in oefeningvdab.js de testcode voor Deel 1 uit commentaar te zetten. Zet de testcode vervolgens weer in commentaar.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef1_2.png](docs/oef1_2.png)
 
@@ -27,13 +27,11 @@ Deel 2: Vacature repository (vacatureRepository.js)
 
 Implementeer de methode voegVacatureToe om één vacature toe te voegen aan de array van vacatures. Maak gebruik van de meegegeven parameters.
 
-Test de code door in de init – functie de testcode voor Deel 2 uit commentaar te zetten. De 4 vacatures moeten uitgeschreven worden. De undefined is afkomstig van de filterOpZoekTermen methode die momenteel nog niets retourneert.
-
 ![oef1_3.png](docs/oef1_3.png)
 
 Implementeer de methode filterOpZoekTermen die de vacatures retourneert die voldoen aan één of meerdere van de meegegeven zoektermen.
 
-Controleer of de testcode de gewenste resultaten geeft. Zet de testcode voor Deel 2 vervolgens weer in commentaar.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef1_4.png](docs/oef1_4.png)
 
@@ -84,7 +82,7 @@ Aan de linkerkant verschijnt een overzicht van alle uitgaven. Aan de rechterkant
 Deel 1
 Voorzie een klasse Uitgave (uitgave.js). Elke uitgave bestaat uit een id, datum, bedrag, omschrijving en een categorie. Voorzie getters en setters
 
-Test de code door in de init – functie de testcode voor Deel 1 uit commentaar te zetten. Zet de testcode vervolgens weer in commentaar.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef2_8.PNG](docs/oef2_8.PNG)
 
@@ -93,32 +91,30 @@ De klasse UitgavenRepository (uitgavenRepository.js).
 
 Implementeer de methode voegUitgaveToe om één uitgave toe te voegen aan de array van uitgaven. Maak gebruik van de meegegeven parameters.
 
-Test de code door in de init – functie de testcode voor Deel 2 uit commentaar te zetten. De 7 uitgaven moeten uitgeschreven worden. De undefined zijn afkomstig van de functies die momenteel nog niets retourneren.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef2_2.PNG](docs/oef2_2.PNG)
 
 Implementeer de methode geefCategorieen die een alfabetisch gesorteerde array van de unieke categorieën retourneert.
 
-Controleer of de testcode het gewenste resultaat geeft.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef2_3.PNG](docs/oef2_3.PNG)
 
 Implementeer de methode totaalBedragUitgaven die het totale bedrag van de uitgaven retourneert.
 
-Controleer of de testcode het gewenste resultaat geeft.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef2_4.PNG](docs/oef2_4.PNG)
 
 Implementeer de methode uitgavenPerCategorie die het totale bedrag van de uitgaven voor de opgegeven categorie retourneert.
 
-Controleer of de testcode de gewenste resultaten geeft. Zet de testcode voor Deel 2 vervolgens weer in commentaar.
+Test de code eventueel via debugging. Voeg de nodige code toe om de applicatie te starten en te testen.
 
 ![oef2_5.PNG](docs/oef2_5.PNG)
 
 Deel 3
 Klasse BankComponent(bank.js).
-
-Zet de bestaande testcode voor Deel 3 uit commentaar.
 
 Bekijk de implementatie van de functie datumNotatie. Deze functie zorgt ervoor dat een datum wordt uitgeschreven zoals in het bovenstaande voorbeeld, bijvoorbeeld: Maandag 8/3/2018
 
